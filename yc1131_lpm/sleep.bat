@@ -1,0 +1,49 @@
+
+
+e p
+e p
+e p
+e d0eed 00
+e 26000 11111111
+e 28000 22222222
+e 30000 33333333
+e 38000 44444444
+e 40000 55555555
+e 48000 66666666
+e 50000 77777777
+e 58000 88888888
+e 60000 99999999
+e 68000 11111111
+
+e 26000l
+e 28000l
+e 30000l
+e 38000l
+e 40000l
+e 48000l
+e 50000l
+e 58000l
+e 60000l
+e 68000l
+
+e faaa0 55
+e faaa0 aa
+e faaa0 17
+e faaa4 1
+e faa80 1
+
+e fa852 01
+e fa852l
+
+rem e fa860 0002
+rem e fa864 0000	
+rem e fa866 0000
+rem e fa860l
+rem e faa18 03
+
+e faaa0 55
+e faaa0 aa
+e faaa0 17
+e faaa4 1
+e faa80 1
+e faa20 5a

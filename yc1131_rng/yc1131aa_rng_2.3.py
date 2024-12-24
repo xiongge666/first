@@ -69,6 +69,10 @@ if __name__ == "__main__":
     get_cmd_result("e p")
     get_cmd_result("e p")
     get_cmd_result("e p")
+    get_cmd_result("e f8528 00")
+    get_cmd_result("e f8529 00")
+    get_cmd_result("e f852a 00")
+    get_cmd_result("e f852b 00")
     for i in range(0,9):
         buff = get_cmd_result("e fb263l").split()
         rng_reg = (int(buff[18],16))
